@@ -1,39 +1,38 @@
-# 📧 Phishing Email Detection and Analysis
+📄 Phishing Email Analysis – Task Submission
+This project is part of a phishing email analysis task. It includes manually analyzing phishing emails, identifying red flags, and preparing a basic tool idea for email header analysis.
 
-This repository contains phishing email analysis tasks and a simple tool concept for email header inspection. It was created as part of a cybersecurity learning project.
+✅ What I Did
+Collected sample phishing emails.
 
----
+> Analyzed each email and identified signs of phishing (like fake links, urgent language, and spoofed sender addresses).
 
-## 📂 Folder: `Task2-phishing emails`
+> Saved screenshots of phishing emails for reference.
 
-### Contents:
-- **Phishing_Email_Analysis – 1/2/3.txt** – Manual analysis of different phishing emails.
-- **phishing_email_1.txt** – Raw phishing email sample.
-- **phishing-email-3.avif**, **Phishing_Email-2.webp** – Screenshots of phishing emails.
-- **phishing_emails_info.txt** – Summary of phishing email techniques and red flags.
-- **Email Header Analyzer - Tool.txt** – Concept and instructions for a basic email header analysis tool.
+> Wrote analysis reports for each email in .txt files.
 
----
+> Created a basic concept tool for checking email headers to find suspicious elements.
 
-## 🧰 Features
+🛠️ How I Performed the Task
+> Read and examined raw phishing emails.
 
-- Identification of phishing indicators such as:
-  - Suspicious URLs
-  - Sender address spoofing
-  - Urgent or threatening language
-- Structured manual analysis format
-- Email header inspection tool idea for beginners
+> Noted important indicators like:
 
----
+> Fake domains/URLs
 
-## 💡 How to Use
+> Urgent or threatening language
 
-1. **Review the analysis reports** in the `.txt` files to understand common phishing tactics.
-2. **Refer to the tool guide** in `Email Header Analyzer - Tool.txt` for ideas on building a simple analyzer.
-3. **Look at the screenshots** to identify visual signs of phishing.
+> Suspicious sender information
 
----
+> Saved findings in analysis files.
 
-## 🔐 Disclaimer
+> Used images to show how phishing emails look visually.
 
-This repository is for educational purposes only. Do not use this information for any malicious or unauthorized activity.
+> Created a tool plan for analyzing email headers in a simple text file.
+
+📁 Files Included
+1.Email analysis reports (.txt)
+
+2.Phishing email samples and screenshots (.txt, .avif, .webp)
+
+3.Tool concept for analyzing email headers
+
