@@ -1,0 +1,16 @@
+Phishing Email Analysis Report – Example-2
+
+Subject: Content Infringement on @Novacorp
+Sender: Seb from CanIPhish
+Date of Email: Wed 3 Jan 2024
+Decision Date Claimed: Wed May 28 2025
+
+Phishing Indicators:
+
+1. Impersonation – Email uses X (Twitter) branding, misleading the recipient.
+2. Suspicious Sender – Claimed sender is not a valid domain related to X/Twitter.
+3. Urgent Language – Legal warning to force the recipient to click or act.
+4. Missing Company Info – No contact details or footer, which is unprofessional.
+5. Phishing Intent – The email likely contains a fake link (cut off in image) aiming to steal credentials.
+
+Recommendation: Never click on suspicious links. Always verify sender identity and check URLs before responding.

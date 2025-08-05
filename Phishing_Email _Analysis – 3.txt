@@ -1,0 +1,57 @@
+Phishing Email Analysis – Bank Account Alert Scam
+
+------------------------------------------------------------
+Sample Email Structure :
+------------------------------------------------------------
+From: Bank Support <alerts@secure-banking-alerts.com>
+To: user@example.com
+Subject: [URGENT] Unusual Login Attempt Detected
+
+Dear Customer,
+
+We detected an unusual login attempt from a new device. Your account has been temporarily restricted.
+
+To restore access, please verify your information at the secure link below:
+
+👉 https://secure-bank-login-update.com
+
+Failure to act in 24 hours will result in permanent account lock.
+
+Thank you,  
+Your Bank Security Team
+
+------------------------------------------------------------
+Phishing Indicators Identified:
+------------------------------------------------------------
+
+1. FAKE SENDER ADDRESS:
+   - The email comes from 'secure-banking-alerts.com', not the real bank domain.
+
+2. SUSPICIOUS LINK:
+   - The link leads to a deceptive site resembling a real bank page but is controlled by attackers.
+
+3. URGENT LANGUAGE:
+   - Words like “unusual login,” “temporarily restricted,” and “permanent lock” create panic and urgency.
+
+4. GENERIC GREETING:
+   - No customer name; uses “Dear Customer,” which is common in mass phishing campaigns.
+
+5. LACK OF AUTHENTIC BRANDING:
+   - Missing real bank logos, footers, terms of service links, or customer service contact.
+
+6. SOCIAL ENGINEERING:
+   - The email manipulates fear to trick users into revealing credentials.
+
+------------------------------------------------------------
+Conclusion:
+------------------------------------------------------------
+
+This is a phishing email impersonating a bank to steal user credentials and sensitive financial data. The use of urgency, deceptive links, and impersonation are typical phishing tactics.
+
+------------------------------------------------------------
+Recommendations:
+------------------------------------------------------------
+- Never click suspicious links from email.
+- Access your bank account only via official websites or apps.
+- Report phishing attempts to your bank's fraud team.
+- Enable multi-factor authentication and monitor your account activity.

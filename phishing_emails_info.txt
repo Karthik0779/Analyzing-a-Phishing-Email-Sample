@@ -1,0 +1,92 @@
+   What is Phishing and How Does It Work?
+
+Phishing is a type of cyber attack where attackers trick people into giving up sensitive information like usernames, passwords, or credit card numbers. It usually happens through fake emails, messages, or websites that appear to be from trusted sources.
+
+It’s different from hacking — phishing is about fooling people, not breaking into systems.
+
+
+
+    Why is it Called "Phishing"?
+
+Just like fishing with bait, attackers "phish" for your personal data by pretending to be legitimate companies or people. One click on a fake link could lead to stolen money, lost data, or compromised accounts.
+
+
+
+   🧠 Types of Phishing Attacks
+
+   1. Phishing
+- Generic scam emails.
+- Pretend to be from banks, credit card companies, etc.
+- Ask for usernames, passwords, account numbers.
+- Leads to fake websites that steal your data.
+
+   2. Spear Phishing
+- Targeted attacks on individuals or companies.
+- Emails look very personal or specific.
+- Often used in ransomware attacks.
+
+   3. CEO Fraud
+- Attacker pretends to be a company executive (like a CEO).
+- Requests money transfers or sensitive data.
+- Often targets finance departments.
+
+   4.  Vishing (Voice Phishing)
+- Phone call phishing.
+- Attacker pretends to be from a bank, ISP, etc.
+- Tries to collect account details or direct you to a malicious site.
+
+   5. SMiShing (SMS Phishing)
+- Text message phishing.
+- Fake alerts from banks or tech companies.
+- May include dangerous links or ask for personal info.
+
+   6. Pharming
+- Alters DNS settings to redirect users to fake websites.
+- Even typing a correct URL takes you to a phishing site.
+- Collects login and payment information silently.
+
+   7. Brand Spoofing
+- Uses logos and names of trusted companies (like Google, Microsoft).
+- Sends emails that appear official.
+- Tricks users into clicking links and entering credentials.
+
+
+
+  🔍 How to Identify Phishing Emails
+
+Look out for these **red flags:
+
+- Unsolicited messages (you didn’t ask for them).
+- Requests for sensitive data.
+- Too-good-to-be-true offers or urgent threats.
+- Spelling and grammar mistakes.
+- Weird email addresses or sender names.
+- Suspicious attachments or links.
+
+
+
+   ✉️ Examples of Phishing Emails
+
+- Fake FedEx email saying your package is stuck and needs a Bitcoin payment.
+- IRS asking for tax payments via email.
+- Fake Microsoft/Google support emails warning of account issues.
+- Fake surveys or promotions asking for login info.
+- Spoofed CEO emails asking employees to transfer funds.
+
+
+
+ ✅ Tips to Avoid Phishing Scams
+
+1.   Don’t click on suspicious links  
+   If unsure, go directly to the website by typing the URL.
+
+2.   Verify before responding  
+   Contact the organization directly using official contact methods.
+
+3.   Look for signs of phishing  
+   Urgency, poor grammar, or requests for personal data = red flags.
+
+
+
+> 🛡️ Stay alert. Think before you click.
+

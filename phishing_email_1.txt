@@ -1,0 +1,18 @@
+From: Apple Support <support@appleid-lock.com>
+To: you@example.com
+Subject: [URGENT] Apple ID Locked Due to Suspicious Activity
+
+Dear Customer,
+
+We’ve detected unusual activity with your Apple ID and have temporarily locked your account to protect your data.
+
+Please verify your identity by logging in at the secure link below:
+
+👉 https://appleid.apple.com-lock.verify-update-security-alerts.com
+
+If you do not verify your identity within 24 hours, your Apple ID will be permanently locked.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,  
+Apple Support

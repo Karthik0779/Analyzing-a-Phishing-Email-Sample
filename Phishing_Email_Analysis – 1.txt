@@ -1,0 +1,59 @@
+Phishing Email Analysis-1 – Apple ID Locked Scam
+
+------------------------------------------------------------
+Email Content:
+------------------------------------------------------------
+From: Apple Support <support@appleid-lock.com>
+To: you@example.com
+Subject: [URGENT] Apple ID Locked Due to Suspicious Activity
+
+Dear Customer,
+
+We’ve detected unusual activity with your Apple ID and have temporarily locked your account to protect your data.
+
+Please verify your identity by logging in at the secure link below:
+
+👉 https://appleid.apple.com-lock.verify-update-security-alerts.com
+
+If you do not verify your identity within 24 hours, your Apple ID will be permanently locked.
+
+Thank you for your prompt attention to this matter.
+
+Sincerely,  
+Apple Support
+
+------------------------------------------------------------
+Phishing Indicators Identified:
+------------------------------------------------------------
+
+1. FAKE URL:
+   - The link shown is crafted to look like Apple’s site but is a phishing domain.
+   - Legit Apple domains only use 'apple.com', not complex subdomains.
+
+2. SPOOFED SENDER:
+   - Sender uses a fake domain: 'appleid-lock.com', not owned by Apple.
+
+3. URGENCY TACTIC:
+   - Threatens account lock in 24 hours to pressure the user into quick action.
+
+4. GENERIC GREETING:
+   - “Dear Customer” is not personalized — phishing emails often skip names.
+
+5. MISSING BRANDING:
+   - No official Apple logo, footer, or contact info which Apple usually includes.
+
+6. SOCIAL ENGINEERING:
+   - Combines impersonation and fear to manipulate the user into clicking the link.
+
+------------------------------------------------------------
+Conclusion:
+------------------------------------------------------------
+
+This is a phishing attempt aimed at stealing Apple ID credentials through a deceptive link and urgent messaging. Users should avoid clicking such links and always verify the authenticity of emails by checking the sender’s domain and contacting the provider directly.
+
+------------------------------------------------------------
+Recommendation:
+------------------------------------------------------------
+- Do not click on suspicious links.
+- Report the email as phishing.
+- Access Apple accounts only through official Apple websites.

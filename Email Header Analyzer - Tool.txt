@@ -1,0 +1,96 @@
+   Email Header Analyzer - How to Use It
+
+An Email Header Analyzer helps you identify the true source and path of a suspicious email by analyzing its metadata. This guide explains how to extract email headers and use free online tools to analyze them.
+
+---
+
+  🔎 What Is an Email Header?
+
+An email header contains technical details about the message, including:
+- The sender’s IP address
+- The servers it passed through
+- Authentication results (SPF, DKIM, DMARC)
+- The actual sending domain (not just what appears in the inbox)
+
+This information helps detect spoofing, phishing, and **fraudulent senders.
+
+
+   🧰 Tools You Can Use
+
+- [Google Admin Toolbox Messageheader](https://toolbox.googleapps.com/apps/messageheader/)
+- [MXToolbox Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)
+
+
+
+ 📥 Step-by-Step Instructions
+
+   Step 1: Open the Suspicious Email
+Do not click on any links. Just open the message to access more options.
+
+
+
+   Step 2: Extract the Email Header
+
+   🔹 Gmail:
+1. Open the email.
+2. Click the three dots (⋮) in the top-right.
+3. Select "Show Original".
+4. Copy the full header from the new page.
+
+  🔹 Outlook (Web):
+1. Open the email.
+2. Click the three dots > View > View message details.
+3. Copy the full header.
+
+  🔹 Yahoo Mail:
+1. Open the email.
+2. Click More (⋮) > View raw message.
+3. Copy the full header text.
+
+
+   Step 3: Use the Email Header Analyzer
+
+    Google Admin Toolbox:
+1. Visit: [https://toolbox.googleapps.com/apps/messageheader/](https://toolbox.googleapps.com/apps/messageheader/)
+2. Paste the copied header into the textbox.
+3. Click "Analyze the Header".
+
+   MXToolbox:
+1. Visit: [https://mxtoolbox.com/EmailHeaders.aspx](https://mxtoolbox.com/EmailHeaders.aspx)
+2. Paste the email header and click **Analyze Header**.
+
+
+
+  Step 4: Understand the Results
+
+Look for these signs:
+- SPF / DKIM / DMARC: Should be "pass". "Fail" indicates spoofing.
+- Sender IP Address: Confirm if it's from the expected domain.
+- Received Path: Trace which servers the email passed through.
+- Delays: Abnormal delays may indicate manipulation.
+
+
+
+ If the Email Looks Suspicious
+
+- Report it using your email provider’s phishing report option.
+- Block the sender.
+- Do not click on links or download attachments.
+- Inform your security team**, if you're in an organization.
+
+
+
+ ✅ Summary
+
+| Step        | Action                                  |
+|-------------|------------------------------------------|
+| Step 1      | Open the suspicious email                |
+| Step 2      | Copy the full email header               |
+| Step 3      | Paste into analyzer tool                 |
+| Step 4      | Review sender IP, authentication, path   |
+| Step 5      | Report or block if phishing is detected  |
+
+
+
+> Tip: Always verify emails that seem urgent, financial, or request login details — especially if they're unexpected.
+
