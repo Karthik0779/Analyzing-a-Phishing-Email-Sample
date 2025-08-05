@@ -1,4 +1,5 @@
 📄 Phishing Email Analysis – Task Submission
+
 This project is part of a phishing email analysis task. It includes manually analyzing phishing emails, identifying red flags, and preparing a basic tool idea for email header analysis.
 
 ✅ What I Did
